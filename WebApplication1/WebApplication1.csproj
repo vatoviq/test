@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>aspnet-WebApplication1-1f9a1f93-a7ca-439d-a0dd-9730779c68f3</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Views\NewFolder\**" />
+		<Content Remove="Views\NewFolder\**" />
+		<EmbeddedResource Remove="Views\NewFolder\**" />
+		<None Remove="Views\NewFolder\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Remove="Views\Home\Index - Copy.cshtml" />
+		<Content Remove="Views\Home\Test.cshtml" />
+		<Content Remove="wwwroot\.editorconfig" />
+		<Content Remove="wwwroot\js\яуиз.йс" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Areas\favicon.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="wwwroot\.editorconfig" />
+		<None Include="wwwroot\Images\logo.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.11" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.11" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.11" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.11" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	</ItemGroup>
+
+</Project>

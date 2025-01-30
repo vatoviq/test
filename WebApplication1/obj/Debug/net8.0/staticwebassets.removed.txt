@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\национална олимпиада\WebApplication1\WebApplication1\wwwroot\NewFolder1\index.html
+C:\Users\User\Desktop\национална олимпиада\WebApplication1\WebApplication1\wwwroot\NewFolder1\questions.json
+C:\Users\User\Desktop\национална олимпиада\WebApplication1\WebApplication1\wwwroot\NewFolder1\script.js
+C:\Users\User\Desktop\национална олимпиада\WebApplication1\WebApplication1\wwwroot\NewFolder1\style.css
