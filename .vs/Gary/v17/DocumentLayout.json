@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gari\\Desktop\\github nacionalna olimpiqda\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Proekt\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF104DED-82A7-4969-91C1-49C93C2ED796}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\proekt\\test\\webapplication1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF104DED-82A7-4969-91C1-49C93C2ED796}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proekt\\test\\WebApplication1\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proekt\\test\\WebApplication1\\Models\\Test.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:17:29.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
