@@ -690,3 +690,4 @@ C:\Users\User\Downloads\Nac olimp +logo (1) (1)\WebApplication1\obj\Debug\net6.0
 C:\Users\User\Downloads\Nac olimp +logo (1) (1)\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\User\Downloads\Nac olimp +logo (1) (1)\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\User\Downloads\Nac olimp +logo (1) (1)\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\User\Downloads\Nac olimp +logo (1) (1)\WebApplication1\obj\Debug\net6.0\WebApplication1.sourcelink.json
