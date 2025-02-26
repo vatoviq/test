@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Mental Health Test";
+}
+
+<div class="container">
+    <h1>Тест за психично здраве</h1>
+
+    <div id="quiz" class="questionnaire">
+        <!-- Въпросите ще бъдат динамично заредени тук -->
+    </div>
+
+    <div class="submit-container">
+        <button id="submit" onclick="submitAnswers()">Изпрати</button>
+    </div>
+
+    <div id="result"></div>
+</div>
+
+@section Scripts {
+    <script src="~/js/quiz.js"></script>
+}
+
